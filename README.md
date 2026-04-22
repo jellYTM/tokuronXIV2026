@@ -1,6 +1,6 @@
 # 名古屋大学前期集中・生物学特論XIV
 
-2025年5月1日(木)
+2026年4月23日(木)
 
 ## 授業予定
 
@@ -25,7 +25,7 @@ https://iblab.bio.nagoya-u.ac.jp/members/detail/s.iwanami
 
 以下から開けます。  
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/iwanaminami/tokuronXIV2025/blob/main/virusdynamics.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/iwanaminami/tokuronXIV2026/blob/main/sir.ipynb)
 
 
 #### Googleアカウント
@@ -42,8 +42,8 @@ Googleアカウント情報はこちらから閲覧できません。
 
 ## レポート
 
-締め切り：2025年5月8日(木) 22時
+締め切り：2026年4月30日(木) 22時
 
 以下のURLからフォームに回答する形でレポートを提出
 
-[https://forms.office.com/r/YS3V9gFj1v](https://forms.office.com/r/dk9sJ8ad7P)
+[https://forms.office.com/r/YS3V9gFj1v](https://forms.office.com/r/eUbZuPjRuK)
